@@ -6,7 +6,7 @@ import Profile from './components/Profile.jsx';
 function App() {
   return(
     <ContextProvider>
-    <h1>React with Chai and share is important</h1>
+    <h1>API Context</h1>
       <Login />
       <Profile />
     </ContextProvider>
